@@ -1,0 +1,34 @@
+﻿# Ignore Visual Studio temporary files, build outputs, and related items
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.pdb
+*.cache
+*.csproj.user
+*.sln.docstates
+*.Build.PS1
+
+# Ignore ReSharper files
+_ReSharper*/
+*.ReSharper.*
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Test Results
+TestResults/
+
+# Ignore Miscellaneous Files
+*.log
+*.tmp
+*.bak
+*.swp
+*.*~
+*.DS_Store
+
+# Optional: Ignore the .vs folder (use with caution - contains user-specific settings)
+.vs/
